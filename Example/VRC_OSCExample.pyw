@@ -84,7 +84,7 @@ btnj = tkinter.Button(Frame, text='Jump', command = Jump)
 btnj.place(x=85, y=130) #ジャンプ
 
 
-FramePM = tkinter.LabelFrame(tki, width=225, height=150, text="Imput")
+FramePM = tkinter.LabelFrame(tki, width=225, height=150, text="SetParameter")
 FramePM.place(x=25, y=200) #Imput
 
 FramePMs = tkinter.LabelFrame(FramePM, width=140, height=45, text="パラメータ名")

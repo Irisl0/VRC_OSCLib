@@ -2,7 +2,7 @@
 ## Library for using OSC control of VRChat
 Request "pythonosc" https://pypi.org/project/python-osc/
 ```
- Copyright (c) 2013 Iris
+ Copyright (c) 2022 Iris
  Released under the MIT license
  https://opensource.org/licenses/mit-license.php
 ```
